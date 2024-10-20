@@ -19,6 +19,6 @@ document.getElementById("myButton").addEventListener("click", function () {
   if (usuario.value === "reyes") {
     console.log("naguebona te pasaste de gay");
   } else if (usuario.value == "richard reyes") {
-    console.log("eres el mega rey gay");
+    console.log(" gay");
   }
 });
