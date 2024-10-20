@@ -1,0 +1,21 @@
+h1{font-style: normal;
+  background-color: red;
+  color: aquamarine;
+}
+h2{background-color: burlywood;
+  color: black;
+
+}
+
+#form-gay{
+  background-color: rgba(255, 0, 0, 0.106);
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+#myButton{
+  background-color: BLUE;
+display: flex;
+   flex-direction: column;
+}
